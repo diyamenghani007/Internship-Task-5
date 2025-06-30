@@ -1,1 +1,14 @@
-
+Inner Join
+Left Join
+Right Join
+Full Join
+Joining Multiple Tables
+Listing all products with their associated order quantities
+Finding total revenue generated from each product
+Listing customers who placed more than one order
+Listing products that were never ordered
+Listing all orders along with customer and city information
+Showing latest order placed by each customer
+Listing customers who haven't placed any orders
+Finding most ordered product(s)
+Getting daily sales with customer count and total amount
